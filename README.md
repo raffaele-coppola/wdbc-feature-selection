@@ -1,5 +1,4 @@
-# FDSML Team 2
-
+# Nuclear Feature Selection for Breast Tumor Diagnosis
 ## Descrizione del progetto
 
 Il progetto implementa una pipeline di Machine Learning per la classificazione del dataset [Breast Cancer Wisconsin](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html).
