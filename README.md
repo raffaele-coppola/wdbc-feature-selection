@@ -56,7 +56,7 @@ Contiene le principali costanti di configurazione del progetto, tra cui i modell
 
 ### `steps.py`
 
-Contiene gli step personalizzati di preprocessing utilizzati nella pipeline: `RobustScaler` -> `VifSelector` -> `WelchSelector` -> `WelchSelector`.
+Contiene gli step personalizzati di preprocessing utilizzati nella pipeline: `RobustScaler` -> `VifSelector` -> `WelchSelector` -> `SMOTE`.
 
 
 ### `utils.py`
